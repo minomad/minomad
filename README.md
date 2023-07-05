@@ -2,4 +2,4 @@
 
 > 테스트
 
-[more](https://github.com/minomad/Portfolio)
+[more details](https://github.com/minomad/Portfolio)
