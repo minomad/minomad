@@ -1,4 +1,4 @@
-### 강경민👋
+### 강경민🐤
 
 > Front-end
 
@@ -6,7 +6,7 @@
 ⭐ **portfolio**   
 ⭐ **email**&nbsp;&nbsp;&nbsp;  
 ⭐ **blog**&nbsp;&nbsp;&nbsp;
-
+<!-- 🌠 -->
 <br/>
 
 [more details](https://github.com/minomad/Portfolio)
