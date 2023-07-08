@@ -4,7 +4,7 @@
 
 <!-- 0000.00.00 -->
 ⭐ **portfolio**   
-⭐ **email**&nbsp;&nbsp;&nbsp;nirex7@naver.com  
+⭐ **email**&nbsp;&nbsp;&nbsp;  
 ⭐ **blog**&nbsp;&nbsp;&nbsp;
 
 <br/>
