@@ -4,7 +4,6 @@
 
 <!-- 0000.00.00 -->
 
-⭐ **portfolio** [ㅡ link](https://github.com/minomad/Portfolio) <br/>
-⭐ **study-log** [ㅡ link](https://github.com/minomad/study-repository) <br/>
-⭐ **blog**&nbsp;&nbsp;&nbsp;<br/>
-⭐ **email**&nbsp;&nbsp;&nbsp;<br/>
+⭐ **portfolio** [ㅡ link](https://github.com/minomad/Portfolio)  
+⭐ **study-log** [ㅡ link](https://github.com/minomad/study-repository)  
+⭐ **email**&nbsp;&nbsp;&nbsp;
